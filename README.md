@@ -38,4 +38,4 @@ The output (myTidyDataSet.txt) can be read into R, creating a tidy data set by r
 14. The tidy data set is saved to a file.
 
 ## Also
-Please see [cookBook.rm](https://github.com/abatemangwu/gettingAndCleaningData/blob/master) for additional infornation about the tiday data set.
+Please see [cookBook.rm](./cookBook.rm) for additional infornation about the tiday data set.

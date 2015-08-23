@@ -27,7 +27,7 @@ Observational data is split into two groups, "test" and "train" (See: Study desi
 ###Guide to create the tidy data file
 The raw data was downloaded from the link provided in the instructions.
 Following a preliminary review of the raw data files in a text editor in order to understand the format of the raw data and to understand the relationships among the various files, the tidy data set was created using an R script. The basic process is outlined below. 
-Please see [README.md](https://github.com/abatemangwu/gettingAndCleaningData/blob/master/README.md) for details.
+Please see [README.md](./README.md) for details.
 
 1. Temporary data frames were created and data was added to produce the structure of the tidy data set
 2. The data was subsetted to include only fields which contain values reporting Mean and Standard Deviations information.
