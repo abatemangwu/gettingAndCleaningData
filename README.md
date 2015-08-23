@@ -3,11 +3,10 @@ title: "README.md"
 subtitle: "Course project submision for Getting and Cleaning Data"
 author: "Anthony Bateman"
 date: "Aug 22, 2015"
-output:
-  html_document:
-    keep_md: yes
 ---
 
+# README.md
+# 
 ## run_analysis.R
 
 ### Description

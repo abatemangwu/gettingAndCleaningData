@@ -1,12 +1,10 @@
-z---
+---
 title: "codeBook.md"
 subtitle: "myTidyDataSet for Getting and Cleaning Data"
 author: "Anthony Bateman"
 date: "Aug 22, 2015"
-output:
-  html_document:
-    keep_md: yes
 ---
+# codeBook.md
 
 ## Project Description
 Develop an R script to collect and clean data from the [Human Activity Recognition Using Smartphones](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) raw data set and process that data to prepare tidy data that can be used for later analysis.
